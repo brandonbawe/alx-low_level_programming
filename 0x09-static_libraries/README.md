@@ -10,10 +10,10 @@ called liball.a from all the .c files that are in the current directory.
 2. Either write something worth reading or do something worth writing mandatory
 Write a blog post on C static libraries. It should cover:
 
-Why use libraries
-How they work
-How to create them
-How to use them
+-Why use libraries
+-How they work
+-How to create them
+-How to use them
 Your posts should have examples and at least one picture, at the top.
 Publish your blog post on Medium or LinkedIn, and share it at least on
 Twitter and LinkedIn.
