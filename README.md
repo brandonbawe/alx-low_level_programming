@@ -33,3 +33,4 @@ and more!
 6. [0x05-pointers_arrays_strings](./0x05-pointers_arrays_strings)
 7. [0x06-pointers_arrays_strings](./0x06-pointers_arrays_strings)
 8. [0x07-pointers_arrays_strings](./0x07-pointers_arrays_strings)
+9. [0x08-recursion](./0x08-recursion)
