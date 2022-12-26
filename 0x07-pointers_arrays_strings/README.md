@@ -1,1 +1,1 @@
-I love Africa
+Made with love from Cameroon
